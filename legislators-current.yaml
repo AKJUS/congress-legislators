@@ -14584,7 +14584,7 @@
     end: '2029-01-03'
     state: SC
     class: 3
-    state_rank: junior
+    state_rank: senior
     party: Republican
     url: https://www.scott.senate.gov
     rss_url: http://www.scott.senate.gov/rss.xml
@@ -41160,3 +41160,27 @@
     state: CA
     district: 1
     party: Republican
+- id:
+    bioguide: G000608
+    lis: S441
+    govtrack: 457044
+    wikipedia: Darline Graham Nordone
+    wikidata: Q140537772
+  name:
+    first: Darline
+    last: Graham Nordone
+  bio:
+    gender: F
+    birthday: '1964-06-12'
+  terms:
+  - type: sen
+    start: '2026-07-14'
+    end: '2027-01-03'
+    how: appointment
+    state: SC
+    class: 2
+    state_rank: junior
+    party: Republican
+    address: 211 Russell Senate Office Building Washington DC 20510
+    office: 211 Russell Senate Office Building
+    phone: 202-224-5972
